@@ -21,7 +21,7 @@ public class Main {
         }
         var output = new StringBuilder();
         var line = new StringBuilder();
-        String[] words = input.split(" ");
+        var words = input.split(" ");
 
         for (var word : words) {
             if (word.isEmpty() || word.length() > MAX_LENGTH) {
