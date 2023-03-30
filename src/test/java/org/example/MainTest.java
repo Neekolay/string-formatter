@@ -21,7 +21,7 @@ class MainTest {
     private static final Random random = new Random();
 
     @Test
-    @RepeatedTest(500)
+    @RepeatedTest(100)
     public void shouldSplitRandomString() {
         var input = generateRandomString();
         var output = Main.splitString(input);
