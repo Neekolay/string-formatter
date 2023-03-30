@@ -1,7 +1,5 @@
 # string-formatter
 
-run 'mvn test' for testing function with random generated strings 
-
 to run application:
  - clone the project 
  - run 'mvn package'
