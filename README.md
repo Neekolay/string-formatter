@@ -3,10 +3,10 @@
 to run application:
  - clone the project 
  - run 'mvn package'
- - run mvn exec:java
+ - run 'mvn exec:java'
  
  to test function with random generated strings: 
- - run 'mvn test 
+ - run 'mvn test'
  
  
 Задача:
